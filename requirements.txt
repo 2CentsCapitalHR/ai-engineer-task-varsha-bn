@@ -1,0 +1,7 @@
+gradio>=3.30
+python-docx>=0.8.11
+tqdm
+pydantic
+ujson
+nltk
+sentence-transformers>=2.2.2
