@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ADGM Corporate Agent — Document Reviewer (Take-home submission)
 
 This repository is a ready-to-run demo for the AI Engineer Intern take-home assignment.
@@ -40,3 +41,6 @@ It provides a minimal, well-documented system to:
 - For production or stronger legal checks, integrate a legal LLM with RAG using the ADGM docs (from the provided Data Sources PDF).
 - I included an example input and a generated reviewed file in `outputs/` for demonstration. Use those as templates.
 
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vgbm4cZ0)
+>>>>>>> 287c509271cca441daf52b6ef8e1ea1f6b1c1103
